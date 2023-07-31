@@ -1,12 +1,11 @@
-# 620-mod6-web-scraping
+#Module Objectives 
 
-See [BeautifulSoup Quickstart Guide](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start)
+##At the end of this module students will be able to:
 
-Choose a BeautifulSoup parser:
-
-- 'html.parser' (default, you get this with BeautifulSoup)
-- 'html5lib' (install separately if desired)
-
-## Getting Started
-
-Fork (copy into your GitHub account) and clone down (to your machine) this repo to get started with web scraping.
+###Retrieve web page programmatically. (CO3)
+ 
+###Parse HTML to search for desired elements. (CO3)
+ 
+###Apply NLP to web text. (CO3, CO5)
+ 
+###Visualize results from processed web text. (CO6)
